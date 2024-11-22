@@ -1,5 +1,4 @@
-﻿Corporate website:
-http://corp-mit.ru
+﻿Corporate website: TBD
 
 Used technologies: 
 Apache / HTML5 / CSS3 / Markdown / Hugo / Go / Js / jQuery / Python
